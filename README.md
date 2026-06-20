@@ -14,7 +14,7 @@ should be open for extension, but closed for modification.
 forced to depend on interfaces they do not use.
 
 - Dependency Inversion Principle: Depend on abstractions, not on concretions. High-level modules should not depend on
- low-level modules. Both should depend on abstractions.   Abstractions should not depend on details. Details should 
+ low-level modules. Both should depend on abstractions. Abstractions should not depend on details. Details should 
  depend on abstractions.
 
 The objective is modify each of the examples in order to not violate the corresponding SOLID principle.
